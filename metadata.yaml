@@ -1,0 +1,44 @@
+_repo: Elsie-s-Journey-on-Inland-Waters_46010
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46010-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: When Cousin Raymond and Annis depart for their honeymoon, the rest of
+  the family tour the Great Lakes onboard "The Dolphin." While they're sailing on
+  Lake Erie, a violent storm descends, and Captain Raymond must save Lulu from being
+  swept overboard. Through it all, the family continues to learn about trusting in
+  God's protection during all of life's storms.
+gutenberg_issued: '2014-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Trust in God -- Juvenile fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Storms -- Great Lakes (North America) -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Great Lakes (North America) -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcc 'PZ'
+title: Elsie's Journey on Inland Waters
+url: http://www.gutenberg.org/ebooks/46010
